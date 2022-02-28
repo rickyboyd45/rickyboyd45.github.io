@@ -8,7 +8,7 @@ myTitle.addEventListener("click", () => {
   if (myTitle.textContent == "Front End Developer") {
     myTitle.textContent = "Full-Stack Developer";
   } else if (myTitle.textContent == "Full-Stack Developer") {
-    myTitle.textContent = "MEN Stack Developer";
+    myTitle.textContent = "MERN Stack Developer";
   } else {
     myTitle.textContent = "Front End Developer";
   }
